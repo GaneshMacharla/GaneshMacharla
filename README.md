@@ -1,1 +1,1 @@
-<h1>Ganesh</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaneshMacharla)](https://github.com/anuraghazra/github-readme-stats)
